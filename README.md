@@ -7,13 +7,13 @@ A Binary Ninja plugin for analyzing indirect branch targets in x86_64 binaries.
 Binja Missing Link is a plugin for Binary Ninja that helps analyze indirect branch targets in x86_64 binaries. It provides detailed information about branch targets, function calls, and virtual table references, making it easier to understand program control flow and function relationships.
 
 ### Before applying the Binja Missing Link plugin
-![before](./assets/before.png)
+![before](https://raw.githubusercontent.com/FFRI/binja-missinglink/refs/heads/main/assets/before.png)
 
 ### After applying the Binja Missing Link plugin
-![after](./assets/after.png)
+![after](https://raw.githubusercontent.com/FFRI/binja-missinglink/refs/heads/main/assets/after.png)
 
 ### Cross reference between branch points
-![demo](./assets/demo.gif)
+![demo](https://raw.githubusercontent.com/FFRI/binja-missinglink/main/assets/demo.gif)
 
 ## Features
 
